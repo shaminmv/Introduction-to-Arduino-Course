@@ -26,7 +26,7 @@ Always remember to choose the corret port and correct board to avoid errors.
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dnPPoetX0uw/0.jpg)](http://www.youtube.com/watch?v=dnPPoetX0uw)
 
 ## Relay Tutorial
-[Random Nerd Tutorials](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)
+[Random Nerd Tutorials](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)  
 Take it further: Use the water pump with Relay. (Use 5v!)
 
 ## WS2812B LED Tutorial
@@ -36,11 +36,11 @@ Installing the Libraries from Arduino IDE | Installing from GitHub.
 [Tutorial](https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/) 
 
 ## RGB LED
-[WS2812B Led](https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/)
+[WS2812B Led](https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/)  
 Take it further: Practice Looping.
 
 ## Servo Motor
 Guide on How to use servo motor.
-https://create.arduino.cc/projecthub/arcaegecengiz/how-to-use-servo-motors-with-arduino-b02bed
+https://create.arduino.cc/projecthub/arcaegecengiz/how-to-use-servo-motors-with-arduino-b02bed  
 Take it further: Try to control Servo using Web via WiFi using esp8266.
   
