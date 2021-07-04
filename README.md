@@ -1,8 +1,13 @@
+
 # Introduction-to-Arduino-Course
 
 Welcome students! Here we will go through the things we covered in our Arduino Class.
 
 ![image](https://user-images.githubusercontent.com/41247468/124375193-bc097780-dc55-11eb-84cb-cea52d23a358.png)
+
+
+## Multimeter Tutorial
+[How to use Multimeter](https://www.youtube.com/watch?v=la0rr9jvH4M)
 
 
 ## Download and Install Arduino
@@ -20,7 +25,22 @@ You will also need to download the ESP8266 board to Arduino IDE.
 Always remember to choose the corret port and correct board to avoid errors.
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dnPPoetX0uw/0.jpg)](http://www.youtube.com/watch?v=dnPPoetX0uw)
 
-## References
-[WS2812B Led](https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/)
+## Relay Tutorial
+[Random Nerd Tutorials](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)
+Take it further: Use the water pump with Relay. (Use 5v!)
 
-WS2812B 
+## WS2812B LED Tutorial
+Installing the Libraries from Arduino IDE | Installing from GitHub.
+
+## L2C OLED Display
+[Tutorial](https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/) 
+
+## RGB LED
+[WS2812B Led](https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/)
+Take it further: Practice Looping.
+
+## Servo Motor
+Guide on How to use servo motor.
+https://create.arduino.cc/projecthub/arcaegecengiz/how-to-use-servo-motors-with-arduino-b02bed
+Take it further: Try to control Servo using Web via WiFi using esp8266.
+  
