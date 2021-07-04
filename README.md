@@ -16,7 +16,7 @@ https://www.arduino.cc/en/software/
 
 Installation instructions can be found at : https://www.arduino.cc/en/guide/windows
 
-In addition to the Arduino IDE, We need to download the ESP8266 Driver and install it from https://www.wemos.cc/en/latest/ch340_driver.html
+In addition to the Arduino IDE, We need to download the ESP8266 Driver and install it from http://www.wch.cn/download/CH341SER_EXE.html
 
 You will also need to download the ESP8266 board to Arduino IDE.
 [How to install the board](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/#:~:text=Install%20ESP8266%20Add%2Don%20in%20Arduino%20IDE&text=Open%20the%20Boards%20Manager.,installed%20after%20a%20few%20seconds.)
